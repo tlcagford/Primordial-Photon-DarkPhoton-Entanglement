@@ -1,6 +1,3 @@
-PHOTON DARK-PHOTON FDM WAVE VISUALIZER
- 
-https://cosmic-entanglement-visualizer-f4f21576.base44.app/
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
 [![License: Dual License](https://img.shields.io/badge/license-Dual--License-blue)
@@ -11,8 +8,8 @@ https://cosmic-entanglement-visualizer-f4f21576.base44.app/
 [![Last Commit](https://img.shields.io/github/last-commit/tlcagford/Primordial-Photon-Dark-Photon-Entanglement.svg)](https://github.com/tlcagford/Primordial-Photon-Dark-Photon-Entanglement/commits)
 [![Repo Size](https://img.shields.io/github/repo-size/tlcagford/Primordial-Photon-Dark-Photon-Entanglement.svg)](#)
 
-[updated_readme.md](https://github.com/user-attachments/files/23573346/updated_readme.md)
 # Primordial Photon–Dark Photon Entanglement
+https://cosmic-entanglement-visualizer-f4f21576.base44.app/Dashboard
 
 A research and analysis framework for testing the **Photon–Dark Photon Entanglement Hypothesis**, analyzing astronomical imaging data, and generating reproducible physics validation results using HST, JWST, and other observatory FITS products.
 
