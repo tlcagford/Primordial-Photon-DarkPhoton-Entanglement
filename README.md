@@ -9,7 +9,9 @@
 [![Repo Size](https://img.shields.io/github/repo-size/tlcagford/Primordial-Photon-Dark-Photon-Entanglement.svg)](#)
 
 # Primordial Photon–Dark Photon Entanglement
+
 https://cosmic-entanglement-visualizer-cop-844bebeb.base44.app/
+
 A research and analysis framework for testing the **Photon–Dark Photon Entanglement Hypothesis**, analyzing astronomical imaging data, and generating reproducible physics validation results using HST, JWST, and other observatory FITS products.
 
 ---
