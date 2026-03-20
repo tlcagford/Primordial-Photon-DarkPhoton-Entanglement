@@ -14,6 +14,18 @@ https://cosmic-entanglement-visualizer-cop-844bebeb.base44.app/
 
 A research and analysis framework for testing the **Photon–Dark Photon Entanglement Hypothesis**, analyzing astronomical imaging data, and generating reproducible physics validation results using HST, JWST, and other observatory FITS products.
 
+
+![8240b7](https://github.com/user-attachments/assets/5a9c224b-59ee-4d69-b350-5d822b7fcb56)
+
+![dc1542](https://github.com/user-attachments/assets/7ecbcdfe-b8dc-4a47-a756-1e8e393ff732)
+
+![4629e27d-e70a-4d54-8418-757ccfd2beb7](https://github.com/user-attachments/assets/9a488a43-6e93-45fe-ba9d-a650062764b4)
+
+![image](https://github.com/user-attachments/assets/a4ce01ba-dcb3-4d3f-bec5-880bf869cef3)
+
+https://github.com/tlcagford/Primordial-Photon-DarkPhoton-Entanglement/blob/7353e65deb87a24907630df854f4d801d0a38439/Application%20of%20the%20Primordial%20Photon%E2%80%93Dark-Photon%20Entanglement%20Framework.docx
+
+
 ---
 
 ## 🚀 Overview
