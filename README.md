@@ -231,7 +231,7 @@ A Contributor License Agreement (CLA) may be required for future releases.
 
 ---
 
-## 📫 Contact
+## 📫 Contact  tlcagford@gmail.com   
 Author: **Tony E. Ford**  
 Independent Researcher / Astrophysics & Quantum Systems
 
