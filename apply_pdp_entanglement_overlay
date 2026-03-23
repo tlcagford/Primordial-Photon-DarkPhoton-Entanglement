@@ -1,0 +1,13 @@
+def apply_pdp_entanglement_overlay(self, image):
+    # Generate fringe pattern based on coupling strength and scale
+    x = np.arange(image.shape[1])
+    y = np.arange(image.shape[0])
+    X, Y = np.meshgrid(x, y)
+    
+    # Create fringe pattern with the specified scale
+    fringe_pattern = np.sin(2 * np.pi * X / self.fringe_scale) * \
+                    np.sin(2 * np.pi * Y / self.fringe_scale)
+    
+    # Apply entanglement coupling strength
+    overlay = fringe_pattern * self.entanglement_coupling
+    # ... colormap application
