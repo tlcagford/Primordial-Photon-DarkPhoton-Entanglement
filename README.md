@@ -1,3 +1,6 @@
+NOTICE OF CONSOLIDATION & PARTNERSHIP PENDING
+As of April 2026, the 20 pipelines of the QCAUS/PDPBioGen suites are undergoing consolidation for high-scale institutional research. Core 'Ford 2026' algorithms remain the proprietary IP of Tony Eugene Ford and the Future Ford Peace and Justice Foundation. Academic users at partner institutions are currently performing validation; all other commercial inquiries must contact the author
+
 [![License: Dual License](https://img.shields.io/badge/license-Dual--License-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Cloud-red.svg)](https://streamlit.io)
